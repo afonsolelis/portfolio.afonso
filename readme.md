@@ -3,6 +3,8 @@ Aqui está um modelo de `README.md` que você pode usar para documentar seu proj
 ```markdown
 # Dashboard de Dados de Seguros
 
+[https://github.com/afonsolelis/portfolio.afonso](https://github.com/afonsolelis/portfolio.afonso.git)
+
 Este projeto é um aplicativo Streamlit que permite visualizar dados de seguros armazenados em um banco de dados Supabase. A aplicação oferece tabelas interativas, gráficos e filtros dinâmicos para análise dos dados.
 
 ## Pré-requisitos
